@@ -1,4 +1,4 @@
 # aryan
 This is my first Repository
 <br>
-Author-Aryan
+Author-Aryan Gupta
